@@ -8,6 +8,7 @@ public class JavadockergcpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavadockergcpApplication.class, args);
+		System.out.println("Hello Word Java, Docker and GCP");
 	}
 
 }
